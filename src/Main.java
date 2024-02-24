@@ -9,6 +9,5 @@ public class Main {
 
         System.out.println();
         System.out.println(service.calculate(1_000_000, 9.99, 36));
-
     }
 }
